@@ -1,5 +1,14 @@
 # House-price-prediction
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-scikit--learn-blue)
+![Regression](https://img.shields.io/badge/Model-Regression-green)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-yellow)
+![Dataset](https://img.shields.io/badge/Dataset-US%20Housing%20Data-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## 🏠 US Housing Price Analysis and Prediction
 
 This project explores trends in the US housing market and builds a machine learning model to **predict housing prices** using historical data. The notebook includes data preprocessing, exploratory data analysis (EDA), and regression modeling.
